@@ -17,3 +17,4 @@ This is what will be shown on the page of your document. This is where we will s
 
 **Remember that when you open a tag you must close it with the forward slash.**
 
+[Second Part](https://github.com/booker044/final-digital/blob/main/Second%20Part.md)
