@@ -1,7 +1,6 @@
 # Step 3: Creating Pac Man
 Now you must use the `<svg>` tag.
-
-1. 
+ 
 `<!DOCTYPE html>
 <html>
   <head>
