@@ -8,11 +8,11 @@ For this tutorial I will use atom to create the code.
 # Now you are ready to enter html.
 3. On the first line you should enter. <!DOCTYPE html> This decares the document type and telling the editor that you are using html.
 4. Next you should get familar with how to input your information.
-- '<html>  </html>'
+- `<html>  </html>`
 Inbetween these tags is where the html code should go. It should be the very first and very last thing for your code. 
-- <head>  </head> 
+- `<head>  </head>` 
 This is the heading of your document and will show up in the tab.
-- <body>  </body>
+- `<body>  </body>`
 This is what will be shown on the page of your document. This is where we will see pac man.
 
 **Remember that when you open a tag you must close it with the forward slash.**
