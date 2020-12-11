@@ -37,3 +37,4 @@ When you enter in these commands you will get Pac Man.
 4. Then the final **circle** commands are how I made what Pac Man eats. This code is all the same besides the **cx** command which should go up in an interval to create the particles that pac man eats.
 
 [First Part](https://github.com/booker044/final-digital/blob/main/First%20Part.md)
+[Homepage](https://github.com/booker044/final-digital/blob/main/README.md)
